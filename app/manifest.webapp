@@ -1,0 +1,20 @@
+{
+  "name": "MdnBrowser",
+  "description": "browser API example from https://developer.mozilla.org/en-US/docs/WebAPI/Browser#Example.",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/icons/60x60.png",
+    "120": "/icons/120x120.png",
+    "128": "/icons/128x128.png"
+  },
+  "developer": {
+    "name": "flatbird",
+    "url": "https://github.com/flatbird"
+  },
+  "default_locale": "en",
+  "type": "privileged",
+  "permissions": {
+    "browser": {}
+  }
+}
+
